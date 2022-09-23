@@ -1,9 +1,13 @@
 # microbee_1-bit_music. About 25 music players with tunes from different authors.
 Majority are by Shiru and UTZ. Tim Follin and others are also included.
 1-bit music engine players for the Microbee computer ported from the ZX Spectrum. 
+
 -ZX Speccy typically plays through bit 4 on port ($FE)
+
 -Microbee's speaker hangs off bit 6 on port ($2)
+
 -VZ200/300 speaker hangs off a software latch at $6800, and uses bit 0 (speaker +) and bit 5 (speaker -)
+
 
 Assembled to 100h as .COM files, these files are intended to run straight from off a real floppy disk (Microbee's CP/M) or disk image within an emulator.
 Within MESS/MAME, fire up the Microbee emulator. (Microbee 32 will run these).
