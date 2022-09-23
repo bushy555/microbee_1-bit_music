@@ -33,9 +33,14 @@ For more info, check out the 1-bit music forum over at : http://randomflux.info/
 Find and download/install Shiru's '1tracker' 1-bit music tracking software for Win/Linux. Create your own 1-bit music that also can be played on the ZX/ VZ / Microbee.
 
 'Lets Go' by Shiru has got to be the best 1-bit music tune released yet.
+
 https://youtu.be/HLj5PDpigEw								  A real VZ-300 playing 'Lets Go'
+
 https://www.youtube.com/watch?v=Jil6W1oLxzo   Microbee emulator playing 'Lets Go'
+
 https://www.youtube.com/watch?v=JU2Qv_bwOPg	  Microbee emulator playing 'Standing Wave'
+
 https://www.youtube.com/watch?v=wF3dtUdJbnc		Microbee emulator playing 'Catching Up'
+
 
 
