@@ -1,4 +1,4 @@
-# microbee_1-bit_music. About 25 music players with tunes from different authors.
+# microbee_1-bit_music. Music players ported to the Microbee from the ZX Spectrum computer.
 Majority are by Shiru and UTZ. Tim Follin and others are also included.
 1-bit music engine players for the Microbee computer ported from the ZX Spectrum. 
 
