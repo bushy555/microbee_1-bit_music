@@ -31,6 +31,17 @@ Huge thanks to Utz and Shiru; masters of 1-bit Z80 music coding.
 For more info, check out the 1-bit music forum over at : http://randomflux.info/1bit/
 
 Find and download/install Shiru's '1tracker' 1-bit music tracking software for Win/Linux. Create your own 1-bit music that also can be played on the ZX/ VZ / Microbee.
+See this thread:  http://randomflux.info/1bit/viewtopic.php?id=24
+
+1tracker x32   : http://shiru.untergrund.net/files/1tracker.zip   
+
+1tracker x64   : http://shiru.untergrund.net/files/1tracker_x64.zip  
+
+1tracker build for linux : http://shiru.untergrund.net/files/1tracker_src.zip  
+
+Beepola tracker  : http://freestuff.grok.co.uk/beepola/
+
+Bin Tracker      : https://bintracker.org
 
 
 'Lets Go' by Shiru has got to be the best 1-bit music tune released yet.
