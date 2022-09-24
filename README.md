@@ -9,28 +9,29 @@ Majority are by Shiru and UTZ. Tim Follin and others are also included.
 -VZ200/300 speaker hangs off a software latch at $6800, and uses bit 0 (speaker +) and bit 5 (speaker -)
 
 
-Assembled to 100h as .COM files, these files are intended to run straight from off a real floppy disk (Microbee's CP/M) or disk image within an emulator.
-Within MESS/MAME, fire up the Microbee emulator. (Microbee 32 will run these).
-Then : Devices --> Quickload --> Mount --> *.COM      (And the music plays)
-No idea with these emulators : NANOWASP (no sound), UBEE512 and MBEE32.
+Assembled with origin at 100h as CP/M .COM files, these files are intended to run straight from off a real floppy disk (Microbee's CP/M) or disk image within an emulator.
 
-All sources can be re-assembed using ORG $900, named as '.BEE', and loaded into UBEE512. 
-Though I still couldnt get this to work at the time of writing.
-Assemble with PASMO and SJASMPLUS.
-Most of Shiru's engines are assembled with SJASMPLUS. All source code that has ' OUTPUT "FILENAME.COM" ' as the first statement after comments will be this.
-All other source code without a "OUTPUT" will be PASMO.
+Within MESS/MAME, fire up the Microbee emulator. (Microbee 32 will run all of these).
+Then : Devices --> Quickload --> Mount --> and select any .COM file.      (And the music will auto play)
+
+UBEE512 emulator : create a disc image, copy these files on to the disc image, and then load.
+
+All sources can be re-assembed using the origin of  'ORG $900' and renaming the resulting object code to a '.BEE' extension.
+These can then also be loaded into UBEE512 emulator.
+
+Most of Shiru's engines are assembled with SJASMPLUS, whilst the others were intended for assembling with PASMO assembler. ( All source code that does not have ' OUTPUT "FILENAME.COM" ' as the first statement will be for PASMO). 
+
 Pasmo Assembler can be found somewhere deep within a ZX website; simply google it and you'll find the windows and/or Linux executable. Same with SJASMPLUS.
 
 
 All credit go to the originators of the related source code.
 Huge thanks to Utz and Shiru; masters of 1-bit Z80 music coding.
 
-Some of these tunes are far superior than most of todays current top-40 commerical crap (noise) music.
 
 For more info, check out the 1-bit music forum over at : http://randomflux.info/1bit/
 
-...once you get into these, it so much fun fiddling around with these music players.
 Find and download/install Shiru's '1tracker' 1-bit music tracking software for Win/Linux. Create your own 1-bit music that also can be played on the ZX/ VZ / Microbee.
+
 
 'Lets Go' by Shiru has got to be the best 1-bit music tune released yet.
 
